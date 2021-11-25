@@ -224,6 +224,7 @@ public class kalkulator extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        layout.setHorizontalGroup()    
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(Kalkulator, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
