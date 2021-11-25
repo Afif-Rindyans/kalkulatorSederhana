@@ -55,6 +55,8 @@ public class kalkulator extends javax.swing.JFrame {
         jButton8.setText("jButton5");
 
         jButton12.setText("jButton5");
+        
+        jButton14.setText("jButton5");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Kalkulator Sederhana");
